@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					CEA155DF1F170DD000798EFE = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 7MF43XA67A;
 						ProvisioningStyle = Automatic;
 					};
 					CEA155F81F170DD000798EFE = {
@@ -424,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7MF43XA67A;
 				INFOPLIST_FILE = OXNotificationTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cloudox.OXNotificationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +438,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7MF43XA67A;
 				INFOPLIST_FILE = OXNotificationTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cloudox.OXNotificationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
